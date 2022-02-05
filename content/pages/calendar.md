@@ -8,40 +8,471 @@ The calendar below provides information on the course's lecture (L) and recitati
 
 Except where indicated in the Topic specific fields, lectures are given by the faculty members listed next to the module names in the table below.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L0 | Introduction - _Prof. Leonid Mirny_ |  |
-| {{< td-colspan 3 >}}**Module 1: Evolutionary and Population Genetics - _Lectures by Prof. Robert Berwick_**{{< /td-colspan >}} |||
-| L1 | The Basic Forces of Evolution: Mutation, Recombination and Mating, Migration, Neutral Evolution and Drift, Effective Population Size |  |
-| L2 | Selection, Fitness, Probability of Fixation, Coalescent Theory  {{< br >}}  {{< br >}}Parameter Estimation |  |
-| R1 | The Basic Forces of Evolution: Mutation, Recombination and Mating, Migration, Neutral Evolution and Drift, Effective Population Size  {{< br >}}  {{< br >}}Selection, Fitness, Probability of Fixation, Coalescent Theory  {{< br >}}  {{< br >}}Parameter Estimation |  |
-| L3 | Selection, Fitness, and Diffusion Models  {{< br >}}  {{< br >}}Molecular Evolution, Jukes-Cantor Model, Kimura Model |  |
-| L4 | Human/Mouse/Rat Examples  {{< br >}}  {{< br >}}Measuring Selection: From 'Classical' Methods to Maximum Likelihood (With Applications to Disease Evolution, HIV and Influenza)  {{< br >}}  {{< br >}}McDonald-Kreitman Test | Problem set 1 out |
-| R2 | Discussion of Problem Set 1 |  |
-| L5 | Medical Lecture: Genetic Diversity and Evolution of Hepatitis C Virus - _Prof. Isaac Kohane_ |  |
-| L6 | Guest Lecture - _Prof. Richard Lewontin_ | Final projects discussed with class faculty after the lecture |
-| {{< td-colspan 3 >}}**Module 2: Comparative Genomics - _Lectures by Prof. Shamil Sunyaev_**{{< /td-colspan >}} |||
-| L7 | Domain Structure of Proteins, Sequence-Structure-Function Relationships  {{< br >}}  {{< br >}}Orthologs, Paralogs, In/Out-Paralogs  {{< br >}}  {{< br >}}_Pairwise Sequence Comparison  {{< br >}}_\- Substitution Matrices (PAM, BLOSUM, Gonnet)  {{< br >}}\- Alignment Methods  {{< br >}}\- Alignment Statistics | Problem set 1 due |
-| L8 | Structure of the Genome  {{< br >}}  {{< br >}}Genome Comparison and Genome Evolution: Duplication, Recombination, Insertions, Repeats  {{< br >}}  {{< br >}}Finding Genome Elements: Genes, Regulatory Regions  {{< br >}}  {{< br >}}Motif Searching  {{< br >}}  {{< br >}}Conserved Non-coding |  |
-| R3 | Infinite Site Model: Nucleotide Diversity, Allele Frequency | Problem set 2 out |
-| L9 | Multiple Alignments, Profiles and PSSM, HMMs, Domain Databases  {{< br >}}  {{< br >}}Prediction of Gene Function Using: Homology, Context, Structure |  |
-| L10 | SNPs: Microevolution, Inference of Population History  {{< br >}}  {{< br >}}LD, Haplotypes, Medical Applications  {{< br >}}  {{< br >}}Effect of SNPs on Function |  |
-| R4 | Recitation: SNPs |  |
-| L11 | Medical Lecture: Human Variations Genes, Genotypes and Generations - _Dr. Marco Ramoni_ | Summary of final projects due |
-| {{< td-colspan 3 >}}**Module 3: Structural Genomics and Proteomics - _Lectures by Prof. Leonid Mirny_**{{< /td-colspan >}} |||
-| L12 | Overview of Protein Structures, Domain Architecture  {{< br >}}  {{< br >}}Sequence-structure Mapping, Protein Folding, Forces and Interactions | Problem set 2 due |
-| L13 | Structure-based Substitution Matrices  {{< br >}}  {{< br >}}Protein Structure Prediction  {{< br >}}  {{< br >}}Threading  {{< br >}}  {{< br >}}Protein Function: Binding and Kinetics, Michaelis-Menthen Kinetics, Inhibition  {{< br >}}  {{< br >}}Protein-DNA Recognition: Models and Algorithms |  |
-| L14 | Proteomics: Networks of Protein-protein Interactions, Complexes, Modules  {{< br >}}  {{< br >}}Power-law Distributions, Clustering Coefficient |  |
-| L15 | Proteomics: Evolution of Protein and Regulatory Networks, Function and Misfunction of Genes in Networks |  |
-| R5 | Recitation |  |
-| L16 | Medical Lecture: Hemoglobin and the Anemias - _Prof. Isaac Kohane_ | Problem set 3 out |
-| L17 | Guest Lecture | Final projects progress report due |
-| {{< td-colspan 3 >}}**Module 4: Functional Genomics and Networks - _Lectures by Prof. Alvin Kho_**{{< /td-colspan >}} |||
-| L18 | Gene Regulation and Function, Conservation, Detecting Regulatory Elements |  |
-| L19 | RNA Expression: Clustering and Classification | Problem Set 3 due |
-| L20 | RNA Expression: Classification, 2-way Clustering, Regulatory Modules  {{< br >}}  {{< br >}}Integration of Expression and Proteomic Data | Problem set 4 out |
-| R6 | Recitation |  |
-| L21 | Dynamics of Biological Networks Metabolic, Regulatory  {{< br >}}  {{< br >}}FBA, Signaling, Regulation of Gene Expression |  |
-| L22 | Medical Lectures - _Prof. Isaac Kohane_  {{< br >}}Two Examples: Phenylketonuria (monogenic) and Diabetes Type 2 (multigenic+)  {{< br >}}  {{< br >}}"Disease" Genes vs. "Susceptibility" Genes  {{< br >}}  {{< br >}}"Environmental" vs. "Developmental" Regulation of Gene Expression |  |
-| L23 | Guest Lecture | Problem set 4 due |
-| L24 | Final Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L0
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction - _Prof. Leonid Mirny_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Module 1: Evolutionary and Population Genetics - _Lectures by Prof. Robert Berwick_**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+The Basic Forces of Evolution: Mutation, Recombination and Mating, Migration, Neutral Evolution and Drift, Effective Population Size
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Selection, Fitness, Probability of Fixation, Coalescent Theory  
+  
+Parameter Estimation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+The Basic Forces of Evolution: Mutation, Recombination and Mating, Migration, Neutral Evolution and Drift, Effective Population Size  
+  
+Selection, Fitness, Probability of Fixation, Coalescent Theory  
+  
+Parameter Estimation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Selection, Fitness, and Diffusion Models  
+  
+Molecular Evolution, Jukes-Cantor Model, Kimura Model
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Human/Mouse/Rat Examples  
+  
+Measuring Selection: From 'Classical' Methods to Maximum Likelihood (With Applications to Disease Evolution, HIV and Influenza)  
+  
+McDonald-Kreitman Test
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Problem Set 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Medical Lecture: Genetic Diversity and Evolution of Hepatitis C Virus - _Prof. Isaac Kohane_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture - _Prof. Richard Lewontin_
+{{< tdclose >}}
+{{< tdopen >}}
+Final projects discussed with class faculty after the lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Module 2: Comparative Genomics - _Lectures by Prof. Shamil Sunyaev_**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Domain Structure of Proteins, Sequence-Structure-Function Relationships  
+  
+Orthologs, Paralogs, In/Out-Paralogs  
+  
+_Pairwise Sequence Comparison  
+_\- Substitution Matrices (PAM, BLOSUM, Gonnet)  
+\- Alignment Methods  
+\- Alignment Statistics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Structure of the Genome  
+  
+Genome Comparison and Genome Evolution: Duplication, Recombination, Insertions, Repeats  
+  
+Finding Genome Elements: Genes, Regulatory Regions  
+  
+Motif Searching  
+  
+Conserved Non-coding
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Infinite Site Model: Nucleotide Diversity, Allele Frequency
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Multiple Alignments, Profiles and PSSM, HMMs, Domain Databases  
+  
+Prediction of Gene Function Using: Homology, Context, Structure
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+SNPs: Microevolution, Inference of Population History  
+  
+LD, Haplotypes, Medical Applications  
+  
+Effect of SNPs on Function
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: SNPs
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Medical Lecture: Human Variations Genes, Genotypes and Generations - _Dr. Marco Ramoni_
+{{< tdclose >}}
+{{< tdopen >}}
+Summary of final projects due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Module 3: Structural Genomics and Proteomics - _Lectures by Prof. Leonid Mirny_**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of Protein Structures, Domain Architecture  
+  
+Sequence-structure Mapping, Protein Folding, Forces and Interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Structure-based Substitution Matrices  
+  
+Protein Structure Prediction  
+  
+Threading  
+  
+Protein Function: Binding and Kinetics, Michaelis-Menthen Kinetics, Inhibition  
+  
+Protein-DNA Recognition: Models and Algorithms
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Proteomics: Networks of Protein-protein Interactions, Complexes, Modules  
+  
+Power-law Distributions, Clustering Coefficient
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Proteomics: Evolution of Protein and Regulatory Networks, Function and Misfunction of Genes in Networks
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Medical Lecture: Hemoglobin and the Anemias - _Prof. Isaac Kohane_
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Final projects progress report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Module 4: Functional Genomics and Networks - _Lectures by Prof. Alvin Kho_**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Gene Regulation and Function, Conservation, Detecting Regulatory Elements
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+RNA Expression: Clustering and Classification
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+RNA Expression: Classification, 2-way Clustering, Regulatory Modules  
+  
+Integration of Expression and Proteomic Data
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics of Biological Networks Metabolic, Regulatory  
+  
+FBA, Signaling, Regulation of Gene Expression
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Medical Lectures - _Prof. Isaac Kohane_  
+Two Examples: Phenylketonuria (monogenic) and Diabetes Type 2 (multigenic+)  
+  
+"Disease" Genes vs. "Susceptibility" Genes  
+  
+"Environmental" vs. "Developmental" Regulation of Gene Expression
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
