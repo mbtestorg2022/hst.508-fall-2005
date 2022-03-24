@@ -22,7 +22,7 @@ TOPICS
 L0
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction - _Prof. Leonid Mirny_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB]({{< baseurl >}}/resources/lecture0))
+Introduction - _Prof. Leonid Mirny_ ([PDF - 1.8 MB]({{< baseurl >}}/resources/lecture0))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +46,7 @@ The Basic Forces of Evolution: Mutation, Recombination and Mating, Migration, Ne
 L2
 {{< tdclose >}}
 {{< tdopen >}}
-Selection, Fitness, Probability of Fixation, Coalescent Theory (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.3 MB]({{< baseurl >}}/resources/hst2))  
+Selection, Fitness, Probability of Fixation, Coalescent Theory ([PDF - 3.3 MB]({{< baseurl >}}/resources/hst2))  
   
 Parameter Estimation
 {{< tdclose >}}
@@ -70,7 +70,7 @@ Parameter Estimation
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-Selection, Fitness, and Diffusion Models (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.4 MB]({{< baseurl >}}/resources/hst3))  
+Selection, Fitness, and Diffusion Models ([PDF - 3.4 MB]({{< baseurl >}}/resources/hst3))  
   
 Molecular Evolution, Jukes-Cantor Model, Kimura Model
 {{< tdclose >}}
@@ -202,7 +202,7 @@ Recitation: SNPs
 L11
 {{< tdclose >}}
 {{< tdopen >}}
-Medical Lecture: Human Variations Genes, Genotypes and Generations - _Dr. Marco Ramoni_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ra_hst508_103105)) (Courtesy of Dr. Marco Ramoni. Used with permission.)
+Medical Lecture: Human Variations Genes, Genotypes and Generations - _Dr. Marco Ramoni_ ([PDF]({{< baseurl >}}/resources/ra_hst508_103105)) (Courtesy of Dr. Marco Ramoni. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +217,7 @@ Medical Lecture: Human Variations Genes, Genotypes and Generations - _Dr. Marco 
 L12
 {{< tdclose >}}
 {{< tdopen >}}
-Overview of Protein Structures, Domain Architecture (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB]({{< baseurl >}}/resources/lecture_st1))  
+Overview of Protein Structures, Domain Architecture ([PDF - 1.2 MB]({{< baseurl >}}/resources/lecture_st1))  
   
 Sequence-structure Mapping, Protein Folding, Forces and Interactions
 {{< tdclose >}}
@@ -228,7 +228,7 @@ Sequence-structure Mapping, Protein Folding, Forces and Interactions
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-Structure-based Substitution Matrices (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/lecture_st2))  
+Structure-based Substitution Matrices ([PDF - 1.1 MB]({{< baseurl >}}/resources/lecture_st2))  
   
 Protein Structure Prediction  
   
@@ -298,7 +298,7 @@ Guest Lecture
 L18
 {{< tdclose >}}
 {{< tdopen >}}
-Gene Regulation and Function, Conservation, Detecting Regulatory Elements (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0 MB]({{< baseurl >}}/resources/hst508_113005_l1))
+Gene Regulation and Function, Conservation, Detecting Regulatory Elements ([PDF - 2.0 MB]({{< baseurl >}}/resources/hst508_113005_l1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +307,7 @@ Gene Regulation and Function, Conservation, Detecting Regulatory Elements (![Thi
 L19
 {{< tdclose >}}
 {{< tdopen >}}
-RNA Expression: Clustering and Classification (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.0 MB]({{< baseurl >}}/resources/hst508_120705_l2))
+RNA Expression: Clustering and Classification ([PDF - 5.0 MB]({{< baseurl >}}/resources/hst508_120705_l2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -316,7 +316,7 @@ RNA Expression: Clustering and Classification (![This resource may not render co
 L20
 {{< tdclose >}}
 {{< tdopen >}}
-RNA Expression: Classification, 2-way Clustering, Regulatory Modules (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/kho_hst508_lec3))  
+RNA Expression: Classification, 2-way Clustering, Regulatory Modules ([PDF]({{< baseurl >}}/resources/kho_hst508_lec3))  
   
 Integration of Expression and Proteomic Data
 {{< tdclose >}}
