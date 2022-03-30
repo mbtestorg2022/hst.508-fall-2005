@@ -7,6 +7,7 @@ description: 'This resource includes information on the basic forces of evolutio
   inference techniques.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-508-quantitative-genomics-fall-2005/ee4e8a527ff9e152a92ee68740cec345_hst3.pdf
 file_type: application/pdf
+parent_uid: d8caf4b5-65f9-9b6e-1c0f-342dc94199df
 resourcetype: Document
 title: hst3.pdf
 uid: ee4e8a52-7ff9-e152-a92e-e68740cec345
